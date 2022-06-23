@@ -14,6 +14,8 @@ Vulnerability location: /school/index.php
 
 Tested on Windows 10, phpStudy
 
+There is an exemple with alert:
+
 ```sql
 POST /school/index.php HTTP/1.1
 Host: 10.10.10.134:8000
